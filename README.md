@@ -293,11 +293,15 @@ Welcome Inventory Booth Event
     <h3>⚙️ Konfigurasi Google Sheets</h3>
     <div class="config-input">
       <label>URL Google Apps Script:</label>
-      <input 
-  type="text" 
-  id="apiUrl" 
-  value="https://script.google.com/macros/s/AKfycbzsI_dxXZ-mgM-5_Vihrv-zyHdeWVKuRKrXhnimdatn4o88pbde0nPEftKXyOlhHJPt-g/exec"
-  placeholder="Masukkan URL Google Apps Script di sini">
+     <div class="config-input">
+  <label>URL Google Apps Script:</label>
+  <input 
+    type="text" 
+    id="apiUrl" 
+    value="https://script.google.com/macros/s/AKfycbzsI_dxXZ-mgM-5_Vihrv-zyHdeWVKuRKrXhnimdatn4o88pbde0nPEftKXyOlhHJPt-g/exec"
+    placeholder="Masukkan URL Google Apps Script di sini">
+</div>
+
 
 
     </div>
