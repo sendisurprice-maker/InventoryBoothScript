@@ -1,6 +1,5 @@
 # InventoryBoothScript
 Welcome Inventory Booth Event 
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
